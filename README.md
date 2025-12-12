@@ -1,3 +1,3 @@
 Preview Demo
 
- - [Demo](https://abilfadliahmad.github.io/profile-jombang/html/about-us.html/)
+ - [Demo](https://abilfadliahmad.github.io/profile-jombang/)
